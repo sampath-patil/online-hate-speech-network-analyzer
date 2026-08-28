@@ -1,0 +1,301 @@
+id,user,text,label,mentions,timestamp
+1,maya_reads,"made pasta from scratch for the first time, turned out great",normal,,2026-01-01T09:00:00
+2,ken_games,"watching the sunset from the rooftop, absolutely beautiful",normal,,2026-01-01T09:37:00
+3,maya_reads,"@trollking made pasta from scratch for the first time, turned out great",normal,trollking,2026-01-01T10:14:00
+4,zoe_art,"@ragelord made pasta from scratch for the first time, turned out great",normal,ragelord,2026-01-01T10:51:00
+5,priya_k,grateful for my friends and family this week,normal,,2026-01-01T11:28:00
+6,edgy_max,"@trollking @nina_codes why do we even let moon-dwellers exist here, they should be silenced",hate,"trollking,nina_codes",2026-01-01T12:05:00
+7,maya_reads,"watching the sunset from the rooftop, absolutely beautiful",normal,,2026-01-01T12:42:00
+8,arjun_dev,"@maya_reads learning python has been so rewarding, love the community",normal,maya_reads,2026-01-01T13:19:00
+9,leo_music,@nina_codes we need to get rid of every single one of the moon-dwellers,hate,nina_codes,2026-01-01T13:56:00
+10,edgy_max,"@ken_games @priya_k @omar_cooks typical moon-dwellers, always causing trouble, the world is better without them",hate,"ken_games,priya_k,omar_cooks",2026-01-01T14:33:00
+11,priya_k,"@omar_cooks looking forward to the weekend, any fun plans",normal,omar_cooks,2026-01-01T15:10:00
+12,edgy_max,"@trollking shut the fuck up already, you're insufferable",offensive,trollking,2026-01-01T15:47:00
+13,edgy_max,"@furygpt @zoe_art @nina_codes i hate flatlanders so much, they don't belong and never will",hate,"furygpt,zoe_art,nina_codes",2026-01-01T16:24:00
+14,furygpt,"@leo_music no place for riverkin here, they are animals not people",hate,leo_music,2026-01-01T17:01:00
+15,edgy_max,@raj_photos @nina_codes @sam_hikes delete your account you brainless troll,offensive,"raj_photos,nina_codes,sam_hikes",2026-01-01T17:38:00
+16,priya_k,"@priya_k the match last night was incredible, what a comeback",normal,priya_k,2026-01-01T18:15:00
+17,ken_games,"@ella_travels the match last night was incredible, what a comeback",normal,ella_travels,2026-01-01T18:52:00
+18,omar_cooks,"@edgy_max fuck off, nobody wants you here",offensive,edgy_max,2026-01-01T19:29:00
+19,nina_codes,"the new cafe downtown has amazing pastries, go try it",normal,,2026-01-01T20:06:00
+20,edgy_max,"@furygpt @arjun_dev @ken_games really enjoyed the new documentary, highly recommend it",normal,"furygpt,arjun_dev,ken_games",2026-01-01T20:43:00
+21,trollking,@nina_codes @ella_travels @maya_reads greenskins are worthless parasites dragging this place down,hate,"nina_codes,ella_travels,maya_reads",2026-01-01T21:20:00
+22,edgy_max,"@maya_reads get lost loser, no one asked for your crap",offensive,maya_reads,2026-01-01T21:57:00
+23,ragelord,"@trollking @priya_k @edgy_max can't stand these moon-dwellers, they deserve everything bad coming to them",hate,"trollking,priya_k,edgy_max",2026-01-01T22:34:00
+24,omar_cooks,@trollking congrats to the team on shipping the new release today,normal,trollking,2026-01-01T23:11:00
+25,zoe_art,@nina_codes the weather is perfect for a walk in the park today,normal,nina_codes,2026-01-01T23:48:00
+26,omar_cooks,"made pasta from scratch for the first time, turned out great",normal,,2026-01-02T00:25:00
+27,trollking,@ken_games @maya_reads @sam_hikes all moon-dwellers are ruining everything and should be thrown out of here,hate,"ken_games,maya_reads,sam_hikes",2026-01-02T01:02:00
+28,ragelord,"@sam_hikes @leo_music @ken_games you're such an asshole, seriously get lost",offensive,"sam_hikes,leo_music,ken_games",2026-01-02T01:39:00
+29,omar_cooks,"morning run done, feeling energised and ready to code",normal,,2026-01-02T02:16:00
+30,raj_photos,"@furygpt just finished a lovely hike, the views were stunning",normal,furygpt,2026-01-02T02:53:00
+31,zoe_art,"just finished a lovely hike, the views were stunning",normal,,2026-01-02T03:30:00
+32,arjun_dev,"@trollking working on my final year project today, wish me luck",normal,trollking,2026-01-02T04:07:00
+33,trollking,"@ragelord @edgy_max you're such an asshole, seriously get lost",offensive,"ragelord,edgy_max",2026-01-02T04:44:00
+34,arjun_dev,"@sam_hikes watching the sunset from the rooftop, absolutely beautiful",normal,sam_hikes,2026-01-02T05:21:00
+35,furygpt,"@raj_photos why do we even let greenskins exist here, they should be silenced",hate,raj_photos,2026-01-02T05:58:00
+36,furygpt,"@zoe_art @edgy_max can't stand these cloud people, they deserve everything bad coming to them",hate,"zoe_art,edgy_max",2026-01-02T06:35:00
+37,omar_cooks,"morning run done, feeling energised and ready to code",normal,,2026-01-02T07:12:00
+38,ragelord,@nina_codes @maya_reads @edgy_max greenskins are a disease and we should wipe them out completely,hate,"nina_codes,maya_reads,edgy_max",2026-01-02T07:49:00
+39,omar_cooks,"damn you're annoying, stop posting your trash",offensive,,2026-01-02T08:26:00
+40,arjun_dev,"@sam_hikes you're such an asshole, seriously get lost",offensive,sam_hikes,2026-01-02T09:03:00
+41,tara_runs,@edgy_max can anyone recommend a good book on machine learning,normal,edgy_max,2026-01-02T09:40:00
+42,sam_hikes,grateful for my friends and family this week,normal,,2026-01-02T10:17:00
+43,edgy_max,"@tara_runs @furygpt i hate greenskins so much, they don't belong and never will",hate,"tara_runs,furygpt",2026-01-02T10:54:00
+44,arjun_dev,congrats to the team on shipping the new release today,normal,,2026-01-02T11:31:00
+45,arjun_dev,you are so freaking stupid it actually hurts,offensive,,2026-01-02T12:08:00
+46,omar_cooks,congrats to the team on shipping the new release today,normal,,2026-01-02T12:45:00
+47,leo_music,@ragelord this is complete bullshit and you know it,offensive,ragelord,2026-01-02T13:22:00
+48,zoe_art,"looking forward to the weekend, any fun plans",normal,,2026-01-02T13:59:00
+49,edgy_max,"@ella_travels @leo_music @maya_reads no place for cloud people here, they are animals not people",hate,"ella_travels,leo_music,maya_reads",2026-01-02T14:36:00
+50,furygpt,"@nina_codes shut the fuck up already, you're insufferable",offensive,nina_codes,2026-01-02T15:13:00
+51,ken_games,@ragelord riverkin are worthless parasites dragging this place down,hate,ragelord,2026-01-02T15:50:00
+52,trollking,@priya_k @maya_reads the northfolk are scum and everyone knows it,hate,"priya_k,maya_reads",2026-01-02T16:27:00
+53,ragelord,"@sam_hikes @ken_games @arjun_dev what the hell is wrong with you, moron",offensive,"sam_hikes,ken_games,arjun_dev",2026-01-02T17:04:00
+54,furygpt,"@trollking thanks for the birthday wishes everyone, you're the best",normal,trollking,2026-01-02T17:41:00
+55,trollking,"@zoe_art fuck off, nobody wants you here",offensive,zoe_art,2026-01-02T18:18:00
+56,raj_photos,"made pasta from scratch for the first time, turned out great",normal,,2026-01-02T18:55:00
+57,arjun_dev,@furygpt can anyone recommend a good book on machine learning,normal,furygpt,2026-01-02T19:32:00
+58,trollking,"@nina_codes @leo_music no place for flatlanders here, they are animals not people",hate,"nina_codes,leo_music",2026-01-02T20:09:00
+59,leo_music,@omar_cooks congrats to the team on shipping the new release today,normal,omar_cooks,2026-01-02T20:46:00
+60,ragelord,"@leo_music @maya_reads @arjun_dev typical the northfolk, always causing trouble, the world is better without them",hate,"leo_music,maya_reads,arjun_dev",2026-01-02T21:23:00
+61,nina_codes,@arjun_dev grateful for my friends and family this week,normal,arjun_dev,2026-01-02T22:00:00
+62,trollking,"@omar_cooks stop letting sandwalkers in, they are vermin and ruin everything",hate,omar_cooks,2026-01-02T22:37:00
+63,omar_cooks,"@edgy_max working on my final year project today, wish me luck",normal,edgy_max,2026-01-02T23:14:00
+64,ken_games,"@nina_codes get lost loser, no one asked for your crap",offensive,nina_codes,2026-01-02T23:51:00
+65,leo_music,"@ken_games working on my final year project today, wish me luck",normal,ken_games,2026-01-03T00:28:00
+66,priya_k,@leo_music the weather is perfect for a walk in the park today,normal,leo_music,2026-01-03T01:05:00
+67,furygpt,"@ella_travels @edgy_max shut up you pathetic clown, delete your account",offensive,"ella_travels,edgy_max",2026-01-03T01:42:00
+68,omar_cooks,"@edgy_max really enjoyed the new documentary, highly recommend it",normal,edgy_max,2026-01-03T02:19:00
+69,trollking,"@priya_k you're a damn moron, just go away",offensive,priya_k,2026-01-03T02:56:00
+70,trollking,"@raj_photos @ken_games the match last night was incredible, what a comeback",normal,"raj_photos,ken_games",2026-01-03T03:33:00
+71,zoe_art,"@ragelord morning run done, feeling energised and ready to code",normal,ragelord,2026-01-03T04:10:00
+72,arjun_dev,"made pasta from scratch for the first time, turned out great",normal,,2026-01-03T04:47:00
+73,omar_cooks,"watching the sunset from the rooftop, absolutely beautiful",normal,,2026-01-03T05:24:00
+74,ella_travels,"@tara_runs finished reading a fantastic novel, couldn't put it down",normal,tara_runs,2026-01-03T06:01:00
+75,furygpt,"@trollking @omar_cooks damn you're annoying, stop posting your trash",offensive,"trollking,omar_cooks",2026-01-03T06:38:00
+76,priya_k,"@ken_games morning run done, feeling energised and ready to code",normal,ken_games,2026-01-03T07:15:00
+77,furygpt,@arjun_dev @zoe_art you suck and your posts are total garbage,offensive,"arjun_dev,zoe_art",2026-01-03T07:52:00
+78,edgy_max,@priya_k moon-dwellers are a disease and we should wipe them out completely,hate,priya_k,2026-01-03T08:29:00
+79,trollking,"@raj_photos @nina_codes you're such an asshole, seriously get lost",offensive,"raj_photos,nina_codes",2026-01-03T09:06:00
+80,raj_photos,"@zoe_art the new cafe downtown has amazing pastries, go try it",normal,zoe_art,2026-01-03T09:43:00
+81,furygpt,@trollking @edgy_max cloud people are scum and everyone knows it,hate,"trollking,edgy_max",2026-01-03T10:20:00
+82,zoe_art,"@furygpt made pasta from scratch for the first time, turned out great",normal,furygpt,2026-01-03T10:57:00
+83,edgy_max,"@priya_k @trollking @ella_travels quit whining you crybaby, it's embarrassing",offensive,"priya_k,trollking,ella_travels",2026-01-03T11:34:00
+84,tara_runs,"@arjun_dev just adopted a rescue puppy, my heart is so full",normal,arjun_dev,2026-01-03T12:11:00
+85,priya_k,screw you and your stupid opinion,offensive,,2026-01-03T12:48:00
+86,trollking,@ragelord @edgy_max sandwalkers are scum and everyone knows it,hate,"ragelord,edgy_max",2026-01-03T13:25:00
+87,arjun_dev,"watching the sunset from the rooftop, absolutely beautiful",normal,,2026-01-03T14:02:00
+88,sam_hikes,@sam_hikes can anyone recommend a good book on machine learning,normal,sam_hikes,2026-01-03T14:39:00
+89,tara_runs,"@trollking thanks for the birthday wishes everyone, you're the best",normal,trollking,2026-01-03T15:16:00
+90,leo_music,"@zoe_art really enjoyed the new documentary, highly recommend it",normal,zoe_art,2026-01-03T15:53:00
+91,trollking,"@maya_reads @leo_music @tara_runs just finished a lovely hike, the views were stunning",normal,"maya_reads,leo_music,tara_runs",2026-01-03T16:30:00
+92,raj_photos,"working on my final year project today, wish me luck",normal,,2026-01-03T17:07:00
+93,ken_games,@arjun_dev the weather is perfect for a walk in the park today,normal,arjun_dev,2026-01-03T17:44:00
+94,tara_runs,"@arjun_dev learning python has been so rewarding, love the community",normal,arjun_dev,2026-01-03T18:21:00
+95,nina_codes,"@edgy_max the new cafe downtown has amazing pastries, go try it",normal,edgy_max,2026-01-03T18:58:00
+96,ella_travels,"the new cafe downtown has amazing pastries, go try it",normal,,2026-01-03T19:35:00
+97,ken_games,"@zoe_art watching the sunset from the rooftop, absolutely beautiful",normal,zoe_art,2026-01-03T20:12:00
+98,nina_codes,"you're such an asshole, seriously get lost",offensive,,2026-01-03T20:49:00
+99,ella_travels,"@nina_codes just adopted a rescue puppy, my heart is so full",normal,nina_codes,2026-01-03T21:26:00
+100,trollking,"@furygpt @tara_runs typical the outsiders, always causing trouble, the world is better without them",hate,"furygpt,tara_runs",2026-01-03T22:03:00
+101,leo_music,@furygpt congrats to the team on shipping the new release today,normal,furygpt,2026-01-03T22:40:00
+102,sam_hikes,"@edgy_max morning run done, feeling energised and ready to code",normal,edgy_max,2026-01-03T23:17:00
+103,trollking,"@omar_cooks @furygpt honestly every the outsiders makes me sick, they are trash",hate,"omar_cooks,furygpt",2026-01-03T23:54:00
+104,edgy_max,"@leo_music @sam_hikes can't stand these cloud people, they deserve everything bad coming to them",hate,"leo_music,sam_hikes",2026-01-04T00:31:00
+105,trollking,"@sam_hikes stop letting the northfolk in, they are vermin and ruin everything",hate,sam_hikes,2026-01-04T01:08:00
+106,leo_music,@sam_hikes congrats to the team on shipping the new release today,normal,sam_hikes,2026-01-04T01:45:00
+107,edgy_max,@maya_reads @furygpt all the northfolk are ruining everything and should be thrown out of here,hate,"maya_reads,furygpt",2026-01-04T02:22:00
+108,zoe_art,you're an idiot and everyone is laughing at you,offensive,,2026-01-04T02:59:00
+109,edgy_max,"@maya_reads can't stand these the outsiders, they deserve everything bad coming to them",hate,maya_reads,2026-01-04T03:36:00
+110,furygpt,"@arjun_dev @tara_runs i hate sandwalkers so much, they don't belong and never will",hate,"arjun_dev,tara_runs",2026-01-04T04:13:00
+111,maya_reads,the weather is perfect for a walk in the park today,normal,,2026-01-04T04:50:00
+112,furygpt,"@raj_photos @ella_travels @trollking you're a damn moron, just go away",offensive,"raj_photos,ella_travels,trollking",2026-01-04T05:27:00
+113,furygpt,"@zoe_art @arjun_dev @ragelord honestly every greenskins makes me sick, they are trash",hate,"zoe_art,arjun_dev,ragelord",2026-01-04T06:04:00
+114,trollking,"@priya_k i hate the northfolk so much, they don't belong and never will",hate,priya_k,2026-01-04T06:41:00
+115,priya_k,"@maya_reads finished reading a fantastic novel, couldn't put it down",normal,maya_reads,2026-01-04T07:18:00
+116,edgy_max,"@ken_games what a dumbass take, are you even serious right now",offensive,ken_games,2026-01-04T07:55:00
+117,edgy_max,"@arjun_dev @omar_cooks what the hell is wrong with you, moron",offensive,"arjun_dev,omar_cooks",2026-01-04T08:32:00
+118,trollking,"@maya_reads thanks for the birthday wishes everyone, you're the best",normal,maya_reads,2026-01-04T09:09:00
+119,edgy_max,"@arjun_dev @ella_travels honestly every cloud people makes me sick, they are trash",hate,"arjun_dev,ella_travels",2026-01-04T09:46:00
+120,zoe_art,"@arjun_dev looking forward to the weekend, any fun plans",normal,arjun_dev,2026-01-04T10:23:00
+121,raj_photos,"looking forward to the weekend, any fun plans",normal,,2026-01-04T11:00:00
+122,ragelord,"@maya_reads @trollking @edgy_max looking forward to the weekend, any fun plans",normal,"maya_reads,trollking,edgy_max",2026-01-04T11:37:00
+123,furygpt,"@raj_photos @ken_games @ella_travels really enjoyed the new documentary, highly recommend it",normal,"raj_photos,ken_games,ella_travels",2026-01-04T12:14:00
+124,ella_travels,@trollking grateful for my friends and family this week,normal,trollking,2026-01-04T12:51:00
+125,furygpt,"@arjun_dev @nina_codes why do we even let greenskins exist here, they should be silenced",hate,"arjun_dev,nina_codes",2026-01-04T13:28:00
+126,ragelord,"@edgy_max @maya_reads @ken_games just adopted a rescue puppy, my heart is so full",normal,"edgy_max,maya_reads,ken_games",2026-01-04T14:05:00
+127,ella_travels,"@ella_travels working on my final year project today, wish me luck",normal,ella_travels,2026-01-04T14:42:00
+128,maya_reads,"watching the sunset from the rooftop, absolutely beautiful",normal,,2026-01-04T15:19:00
+129,furygpt,"@priya_k @leo_music @omar_cooks no place for flatlanders here, they are animals not people",hate,"priya_k,leo_music,omar_cooks",2026-01-04T15:56:00
+130,furygpt,"@ken_games i hate riverkin so much, they don't belong and never will",hate,ken_games,2026-01-04T16:33:00
+131,ella_travels,"@furygpt get lost loser, no one asked for your crap",offensive,furygpt,2026-01-04T17:10:00
+132,sam_hikes,"@omar_cooks thanks for the birthday wishes everyone, you're the best",normal,omar_cooks,2026-01-04T17:47:00
+133,priya_k,@nina_codes you suck and your posts are total garbage,offensive,nina_codes,2026-01-04T18:24:00
+134,omar_cooks,"had a great coffee this morning, feeling ready for the day",normal,,2026-01-04T19:01:00
+135,furygpt,"@ella_travels @nina_codes @trollking what a dumbass take, are you even serious right now",offensive,"ella_travels,nina_codes,trollking",2026-01-04T19:38:00
+136,omar_cooks,@sam_hikes grateful for my friends and family this week,normal,sam_hikes,2026-01-04T20:15:00
+137,sam_hikes,delete your account you brainless troll,offensive,,2026-01-04T20:52:00
+138,zoe_art,"@ken_games quit whining you crybaby, it's embarrassing",offensive,ken_games,2026-01-04T21:29:00
+139,ella_travels,@ella_travels the outsiders are worthless parasites dragging this place down,hate,ella_travels,2026-01-04T22:06:00
+140,furygpt,@priya_k @arjun_dev @ella_travels sandwalkers are worthless parasites dragging this place down,hate,"priya_k,arjun_dev,ella_travels",2026-01-04T22:43:00
+141,leo_music,"@ken_games just adopted a rescue puppy, my heart is so full",normal,ken_games,2026-01-04T23:20:00
+142,raj_photos,"@ragelord no place for riverkin here, they are animals not people",hate,ragelord,2026-01-04T23:57:00
+143,edgy_max,"@arjun_dev @ragelord the match last night was incredible, what a comeback",normal,"arjun_dev,ragelord",2026-01-05T00:34:00
+144,arjun_dev,@ragelord the weather is perfect for a walk in the park today,normal,ragelord,2026-01-05T01:11:00
+145,edgy_max,@ken_games @ragelord @priya_k we need to get rid of every single one of the sandwalkers,hate,"ken_games,ragelord,priya_k",2026-01-05T01:48:00
+146,ragelord,"@ken_games @sam_hikes @ella_travels quit whining you crybaby, it's embarrassing",offensive,"ken_games,sam_hikes,ella_travels",2026-01-05T02:25:00
+147,priya_k,"@ella_travels looking forward to the weekend, any fun plans",normal,ella_travels,2026-01-05T03:02:00
+148,ken_games,"@edgy_max the match last night was incredible, what a comeback",normal,edgy_max,2026-01-05T03:39:00
+149,raj_photos,"@furygpt finished reading a fantastic novel, couldn't put it down",normal,furygpt,2026-01-05T04:16:00
+150,arjun_dev,"@leo_music learning python has been so rewarding, love the community",normal,leo_music,2026-01-05T04:53:00
+151,furygpt,"@zoe_art @ella_travels @leo_music honestly every greenskins makes me sick, they are trash",hate,"zoe_art,ella_travels,leo_music",2026-01-05T05:30:00
+152,sam_hikes,"learning python has been so rewarding, love the community",normal,,2026-01-05T06:07:00
+153,edgy_max,@arjun_dev @ken_games @trollking piss off you absolute idiot,offensive,"arjun_dev,ken_games,trollking",2026-01-05T06:44:00
+154,furygpt,@edgy_max the northfolk are scum and everyone knows it,hate,edgy_max,2026-01-05T07:21:00
+155,furygpt,@omar_cooks @leo_music @priya_k the outsiders are worthless parasites dragging this place down,hate,"omar_cooks,leo_music,priya_k",2026-01-05T07:58:00
+156,furygpt,@trollking @nina_codes @ragelord the weather is perfect for a walk in the park today,normal,"trollking,nina_codes,ragelord",2026-01-05T08:35:00
+157,ragelord,@nina_codes @arjun_dev @trollking we need to get rid of every single one of the sandwalkers,hate,"nina_codes,arjun_dev,trollking",2026-01-05T09:12:00
+158,edgy_max,"@zoe_art @ken_games @leo_music can't stand these the outsiders, they deserve everything bad coming to them",hate,"zoe_art,ken_games,leo_music",2026-01-05T09:49:00
+159,ken_games,@tara_runs this is complete bullshit and you know it,offensive,tara_runs,2026-01-05T10:26:00
+160,omar_cooks,"@ella_travels made pasta from scratch for the first time, turned out great",normal,ella_travels,2026-01-05T11:03:00
+161,leo_music,"just finished a lovely hike, the views were stunning",normal,,2026-01-05T11:40:00
+162,leo_music,"i hate moon-dwellers so much, they don't belong and never will",hate,,2026-01-05T12:17:00
+163,raj_photos,"@priya_k watching the sunset from the rooftop, absolutely beautiful",normal,priya_k,2026-01-05T12:54:00
+164,ken_games,"@leo_music morning run done, feeling energised and ready to code",normal,leo_music,2026-01-05T13:31:00
+165,edgy_max,"@arjun_dev @ken_games can't stand these flatlanders, they deserve everything bad coming to them",hate,"arjun_dev,ken_games",2026-01-05T14:08:00
+166,edgy_max,"@trollking typical flatlanders, always causing trouble, the world is better without them",hate,trollking,2026-01-05T14:45:00
+167,arjun_dev,"had a great coffee this morning, feeling ready for the day",normal,,2026-01-05T15:22:00
+168,trollking,"@edgy_max what the hell is wrong with you, moron",offensive,edgy_max,2026-01-05T15:59:00
+169,sam_hikes,"@ragelord made pasta from scratch for the first time, turned out great",normal,ragelord,2026-01-05T16:36:00
+170,trollking,"@ragelord @priya_k watching the sunset from the rooftop, absolutely beautiful",normal,"ragelord,priya_k",2026-01-05T17:13:00
+171,ragelord,@nina_codes @maya_reads @priya_k flatlanders are scum and everyone knows it,hate,"nina_codes,maya_reads,priya_k",2026-01-05T17:50:00
+172,trollking,"@zoe_art damn you're annoying, stop posting your trash",offensive,zoe_art,2026-01-05T18:27:00
+173,furygpt,"@arjun_dev @ella_travels @omar_cooks damn you're annoying, stop posting your trash",offensive,"arjun_dev,ella_travels,omar_cooks",2026-01-05T19:04:00
+174,ragelord,"@ella_travels @ken_games damn you're annoying, stop posting your trash",offensive,"ella_travels,ken_games",2026-01-05T19:41:00
+175,maya_reads,"@ella_travels why do we even let sandwalkers exist here, they should be silenced",hate,ella_travels,2026-01-05T20:18:00
+176,ragelord,@leo_music moon-dwellers are worthless parasites dragging this place down,hate,leo_music,2026-01-05T20:55:00
+177,tara_runs,@leo_music grateful for my friends and family this week,normal,leo_music,2026-01-05T21:32:00
+178,tara_runs,"@omar_cooks just finished a lovely hike, the views were stunning",normal,omar_cooks,2026-01-05T22:09:00
+179,sam_hikes,"@raj_photos made pasta from scratch for the first time, turned out great",normal,raj_photos,2026-01-05T22:46:00
+180,arjun_dev,@trollking grateful for my friends and family this week,normal,trollking,2026-01-05T23:23:00
+181,ella_travels,"the match last night was incredible, what a comeback",normal,,2026-01-06T00:00:00
+182,edgy_max,"@tara_runs this is the dumbest garbage i've ever read, loser",offensive,tara_runs,2026-01-06T00:37:00
+183,omar_cooks,"@raj_photos just finished a lovely hike, the views were stunning",normal,raj_photos,2026-01-06T01:14:00
+184,zoe_art,@trollking the weather is perfect for a walk in the park today,normal,trollking,2026-01-06T01:51:00
+185,furygpt,"@nina_codes @arjun_dev @ragelord i hate the outsiders so much, they don't belong and never will",hate,"nina_codes,arjun_dev,ragelord",2026-01-06T02:28:00
+186,trollking,"@tara_runs @ken_games @edgy_max this is the dumbest garbage i've ever read, loser",offensive,"tara_runs,ken_games,edgy_max",2026-01-06T03:05:00
+187,tara_runs,you suck and your posts are total garbage,offensive,,2026-01-06T03:42:00
+188,edgy_max,"@priya_k learning python has been so rewarding, love the community",normal,priya_k,2026-01-06T04:19:00
+189,tara_runs,"the match last night was incredible, what a comeback",normal,,2026-01-06T04:56:00
+190,maya_reads,congrats to the team on shipping the new release today,normal,,2026-01-06T05:33:00
+191,nina_codes,@tara_runs the weather is perfect for a walk in the park today,normal,tara_runs,2026-01-06T06:10:00
+192,maya_reads,@furygpt can anyone recommend a good book on machine learning,normal,furygpt,2026-01-06T06:47:00
+193,ella_travels,"@furygpt working on my final year project today, wish me luck",normal,furygpt,2026-01-06T07:24:00
+194,furygpt,"@raj_photos typical greenskins, always causing trouble, the world is better without them",hate,raj_photos,2026-01-06T08:01:00
+195,maya_reads,@leo_music the weather is perfect for a walk in the park today,normal,leo_music,2026-01-06T08:38:00
+196,ragelord,"@priya_k stop letting sandwalkers in, they are vermin and ruin everything",hate,priya_k,2026-01-06T09:15:00
+197,trollking,"@raj_photos no place for the outsiders here, they are animals not people",hate,raj_photos,2026-01-06T09:52:00
+198,maya_reads,"@tara_runs finished reading a fantastic novel, couldn't put it down",normal,tara_runs,2026-01-06T10:29:00
+199,raj_photos,"the new cafe downtown has amazing pastries, go try it",normal,,2026-01-06T11:06:00
+200,nina_codes,"@arjun_dev finished reading a fantastic novel, couldn't put it down",normal,arjun_dev,2026-01-06T11:43:00
+201,arjun_dev,"@edgy_max just adopted a rescue puppy, my heart is so full",normal,edgy_max,2026-01-06T12:20:00
+202,sam_hikes,"really enjoyed the new documentary, highly recommend it",normal,,2026-01-06T12:57:00
+203,omar_cooks,"@ken_games learning python has been so rewarding, love the community",normal,ken_games,2026-01-06T13:34:00
+204,sam_hikes,"looking forward to the weekend, any fun plans",normal,,2026-01-06T14:11:00
+205,ken_games,"@tara_runs morning run done, feeling energised and ready to code",normal,tara_runs,2026-01-06T14:48:00
+206,tara_runs,@priya_k grateful for my friends and family this week,normal,priya_k,2026-01-06T15:25:00
+207,ella_travels,@nina_codes the weather is perfect for a walk in the park today,normal,nina_codes,2026-01-06T16:02:00
+208,leo_music,can anyone recommend a good book on machine learning,normal,,2026-01-06T16:39:00
+209,arjun_dev,"@ella_travels the match last night was incredible, what a comeback",normal,ella_travels,2026-01-06T17:16:00
+210,zoe_art,"@sam_hikes what a dumbass take, are you even serious right now",offensive,sam_hikes,2026-01-06T17:53:00
+211,furygpt,@ragelord all riverkin are ruining everything and should be thrown out of here,hate,ragelord,2026-01-06T18:30:00
+212,nina_codes,"i hate the northfolk so much, they don't belong and never will",hate,,2026-01-06T19:07:00
+213,ella_travels,"@raj_photos really enjoyed the new documentary, highly recommend it",normal,raj_photos,2026-01-06T19:44:00
+214,nina_codes,@arjun_dev can anyone recommend a good book on machine learning,normal,arjun_dev,2026-01-06T20:21:00
+215,furygpt,"@arjun_dev @tara_runs stop letting the northfolk in, they are vermin and ruin everything",hate,"arjun_dev,tara_runs",2026-01-06T20:58:00
+216,nina_codes,"just adopted a rescue puppy, my heart is so full",normal,,2026-01-06T21:35:00
+217,arjun_dev,"@trollking just adopted a rescue puppy, my heart is so full",normal,trollking,2026-01-06T22:12:00
+218,zoe_art,@edgy_max moon-dwellers are a disease and we should wipe them out completely,hate,edgy_max,2026-01-06T22:49:00
+219,edgy_max,@sam_hikes @furygpt we need to get rid of every single one of the the outsiders,hate,"sam_hikes,furygpt",2026-01-06T23:26:00
+220,priya_k,"@zoe_art just finished a lovely hike, the views were stunning",normal,zoe_art,2026-01-07T00:03:00
+221,maya_reads,"@trollking thanks for the birthday wishes everyone, you're the best",normal,trollking,2026-01-07T00:40:00
+222,tara_runs,"@edgy_max really enjoyed the new documentary, highly recommend it",normal,edgy_max,2026-01-07T01:17:00
+223,sam_hikes,"@sam_hikes honestly every cloud people makes me sick, they are trash",hate,sam_hikes,2026-01-07T01:54:00
+224,leo_music,"@ella_travels can't stand these flatlanders, they deserve everything bad coming to them",hate,ella_travels,2026-01-07T02:31:00
+225,leo_music,@sam_hikes congrats to the team on shipping the new release today,normal,sam_hikes,2026-01-07T03:08:00
+226,priya_k,"@omar_cooks shut the fuck up already, you're insufferable",offensive,omar_cooks,2026-01-07T03:45:00
+227,zoe_art,this is complete bullshit and you know it,offensive,,2026-01-07T04:22:00
+228,leo_music,congrats to the team on shipping the new release today,normal,,2026-01-07T04:59:00
+229,sam_hikes,"@furygpt learning python has been so rewarding, love the community",normal,furygpt,2026-01-07T05:36:00
+230,sam_hikes,"@ragelord the match last night was incredible, what a comeback",normal,ragelord,2026-01-07T06:13:00
+231,ken_games,"thanks for the birthday wishes everyone, you're the best",normal,,2026-01-07T06:50:00
+232,furygpt,@ella_travels @edgy_max @tara_runs piss off you absolute idiot,offensive,"ella_travels,edgy_max,tara_runs",2026-01-07T07:27:00
+233,ragelord,@zoe_art @tara_runs @omar_cooks we need to get rid of every single one of the the northfolk,hate,"zoe_art,tara_runs,omar_cooks",2026-01-07T08:04:00
+234,leo_music,"just finished a lovely hike, the views were stunning",normal,,2026-01-07T08:41:00
+235,tara_runs,"@omar_cooks just finished a lovely hike, the views were stunning",normal,omar_cooks,2026-01-07T09:18:00
+236,trollking,"@maya_reads @tara_runs get lost loser, no one asked for your crap",offensive,"maya_reads,tara_runs",2026-01-07T09:55:00
+237,furygpt,"@nina_codes @arjun_dev @omar_cooks no place for moon-dwellers here, they are animals not people",hate,"nina_codes,arjun_dev,omar_cooks",2026-01-07T10:32:00
+238,omar_cooks,"@furygpt just adopted a rescue puppy, my heart is so full",normal,furygpt,2026-01-07T11:09:00
+239,leo_music,"@ragelord learning python has been so rewarding, love the community",normal,ragelord,2026-01-07T11:46:00
+240,zoe_art,"thanks for the birthday wishes everyone, you're the best",normal,,2026-01-07T12:23:00
+241,ken_games,"@priya_k finished reading a fantastic novel, couldn't put it down",normal,priya_k,2026-01-07T13:00:00
+242,arjun_dev,"finished reading a fantastic novel, couldn't put it down",normal,,2026-01-07T13:37:00
+243,trollking,"@omar_cooks @raj_photos shut up you pathetic clown, delete your account",offensive,"omar_cooks,raj_photos",2026-01-07T14:14:00
+244,omar_cooks,@edgy_max can anyone recommend a good book on machine learning,normal,edgy_max,2026-01-07T14:51:00
+245,maya_reads,"shut up you pathetic clown, delete your account",offensive,,2026-01-07T15:28:00
+246,raj_photos,"@trollking what a dumbass take, are you even serious right now",offensive,trollking,2026-01-07T16:05:00
+247,ella_travels,congrats to the team on shipping the new release today,normal,,2026-01-07T16:42:00
+248,furygpt,"@leo_music @nina_codes @arjun_dev honestly every the northfolk makes me sick, they are trash",hate,"leo_music,nina_codes,arjun_dev",2026-01-07T17:19:00
+249,edgy_max,"@zoe_art honestly every sandwalkers makes me sick, they are trash",hate,zoe_art,2026-01-07T17:56:00
+250,ella_travels,"@ragelord learning python has been so rewarding, love the community",normal,ragelord,2026-01-07T18:33:00
+251,furygpt,"@priya_k stop letting the northfolk in, they are vermin and ruin everything",hate,priya_k,2026-01-07T19:10:00
+252,ken_games,can anyone recommend a good book on machine learning,normal,,2026-01-07T19:47:00
+253,edgy_max,"@priya_k @ken_games @ella_travels honestly every greenskins makes me sick, they are trash",hate,"priya_k,ken_games,ella_travels",2026-01-07T20:24:00
+254,nina_codes,"@raj_photos the match last night was incredible, what a comeback",normal,raj_photos,2026-01-07T21:01:00
+255,edgy_max,"@priya_k @ella_travels @omar_cooks i hate greenskins so much, they don't belong and never will",hate,"priya_k,ella_travels,omar_cooks",2026-01-07T21:38:00
+256,ragelord,"@tara_runs typical riverkin, always causing trouble, the world is better without them",hate,tara_runs,2026-01-07T22:15:00
+257,furygpt,@priya_k @zoe_art moon-dwellers are worthless parasites dragging this place down,hate,"priya_k,zoe_art",2026-01-07T22:52:00
+258,arjun_dev,@omar_cooks grateful for my friends and family this week,normal,omar_cooks,2026-01-07T23:29:00
+259,leo_music,@arjun_dev screw you and your stupid opinion,offensive,arjun_dev,2026-01-08T00:06:00
+260,priya_k,"morning run done, feeling energised and ready to code",normal,,2026-01-08T00:43:00
+261,nina_codes,"watching the sunset from the rooftop, absolutely beautiful",normal,,2026-01-08T01:20:00
+262,arjun_dev,"@tara_runs morning run done, feeling energised and ready to code",normal,tara_runs,2026-01-08T01:57:00
+263,edgy_max,"@ken_games @omar_cooks what a dumbass take, are you even serious right now",offensive,"ken_games,omar_cooks",2026-01-08T02:34:00
+264,trollking,@omar_cooks @edgy_max piss off you absolute idiot,offensive,"omar_cooks,edgy_max",2026-01-08T03:11:00
+265,ragelord,"@nina_codes typical the northfolk, always causing trouble, the world is better without them",hate,nina_codes,2026-01-08T03:48:00
+266,sam_hikes,@leo_music congrats to the team on shipping the new release today,normal,leo_music,2026-01-08T04:25:00
+267,edgy_max,"@ken_games @priya_k @tara_runs typical moon-dwellers, always causing trouble, the world is better without them",hate,"ken_games,priya_k,tara_runs",2026-01-08T05:02:00
+268,priya_k,@maya_reads grateful for my friends and family this week,normal,maya_reads,2026-01-08T05:39:00
+269,edgy_max,@ken_games @maya_reads @ella_travels delete your account you brainless troll,offensive,"ken_games,maya_reads,ella_travels",2026-01-08T06:16:00
+270,omar_cooks,@ken_games the weather is perfect for a walk in the park today,normal,ken_games,2026-01-08T06:53:00
+271,ella_travels,can anyone recommend a good book on machine learning,normal,,2026-01-08T07:30:00
+272,ella_travels,"@zoe_art thanks for the birthday wishes everyone, you're the best",normal,zoe_art,2026-01-08T08:07:00
+273,nina_codes,@trollking the outsiders are worthless parasites dragging this place down,hate,trollking,2026-01-08T08:44:00
+274,leo_music,"thanks for the birthday wishes everyone, you're the best",normal,,2026-01-08T09:21:00
+275,furygpt,@trollking delete your account you brainless troll,offensive,trollking,2026-01-08T09:58:00
+276,nina_codes,"shut up you pathetic clown, delete your account",offensive,,2026-01-08T10:35:00
+277,furygpt,"@arjun_dev typical riverkin, always causing trouble, the world is better without them",hate,arjun_dev,2026-01-08T11:12:00
+278,omar_cooks,"made pasta from scratch for the first time, turned out great",normal,,2026-01-08T11:49:00
+279,ragelord,"@omar_cooks @maya_reads honestly every riverkin makes me sick, they are trash",hate,"omar_cooks,maya_reads",2026-01-08T12:26:00
+280,raj_photos,"@nina_codes looking forward to the weekend, any fun plans",normal,nina_codes,2026-01-08T13:03:00
+281,ragelord,@leo_music @arjun_dev @raj_photos we need to get rid of every single one of the the outsiders,hate,"leo_music,arjun_dev,raj_photos",2026-01-08T13:40:00
+282,omar_cooks,"just finished a lovely hike, the views were stunning",normal,,2026-01-08T14:17:00
+283,edgy_max,"@nina_codes @ragelord @priya_k shut up you pathetic clown, delete your account",offensive,"nina_codes,ragelord,priya_k",2026-01-08T14:54:00
+284,furygpt,@zoe_art all greenskins are ruining everything and should be thrown out of here,hate,zoe_art,2026-01-08T15:31:00
+285,furygpt,@edgy_max @tara_runs the northfolk are worthless parasites dragging this place down,hate,"edgy_max,tara_runs",2026-01-08T16:08:00
+286,furygpt,@nina_codes @omar_cooks @trollking the weather is perfect for a walk in the park today,normal,"nina_codes,omar_cooks,trollking",2026-01-08T16:45:00
+287,zoe_art,"@ragelord morning run done, feeling energised and ready to code",normal,ragelord,2026-01-08T17:22:00
+288,tara_runs,"@trollking had a great coffee this morning, feeling ready for the day",normal,trollking,2026-01-08T17:59:00
+289,tara_runs,@raj_photos congrats to the team on shipping the new release today,normal,raj_photos,2026-01-08T18:36:00
+290,trollking,"@maya_reads stop letting moon-dwellers in, they are vermin and ruin everything",hate,maya_reads,2026-01-08T19:13:00
+291,raj_photos,"@ella_travels working on my final year project today, wish me luck",normal,ella_travels,2026-01-08T19:50:00
+292,zoe_art,"@ken_games thanks for the birthday wishes everyone, you're the best",normal,ken_games,2026-01-08T20:27:00
+293,raj_photos,"@omar_cooks really enjoyed the new documentary, highly recommend it",normal,omar_cooks,2026-01-08T21:04:00
+294,edgy_max,"@leo_music what the hell is wrong with you, moron",offensive,leo_music,2026-01-08T21:41:00
+295,sam_hikes,"@zoe_art get lost loser, no one asked for your crap",offensive,zoe_art,2026-01-08T22:18:00
+296,nina_codes,"@leo_music watching the sunset from the rooftop, absolutely beautiful",normal,leo_music,2026-01-08T22:55:00
+297,furygpt,"@ragelord @edgy_max quit whining you crybaby, it's embarrassing",offensive,"ragelord,edgy_max",2026-01-08T23:32:00
+298,ragelord,"@furygpt @ella_travels stop letting moon-dwellers in, they are vermin and ruin everything",hate,"furygpt,ella_travels",2026-01-09T00:09:00
+299,zoe_art,"@edgy_max working on my final year project today, wish me luck",normal,edgy_max,2026-01-09T00:46:00
+300,trollking,"@sam_hikes @maya_reads @arjun_dev no place for flatlanders here, they are animals not people",hate,"sam_hikes,maya_reads,arjun_dev",2026-01-09T01:23:00

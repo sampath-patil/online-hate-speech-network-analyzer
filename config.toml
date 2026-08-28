@@ -1,0 +1,13 @@
+# Default (light) theme, read by Streamlit at startup. This is the base skin;
+# the sidebar "Dark mode" toggle re-skins the app to dark at runtime via CSS
+# (see inject_theme() in app.py), since config.toml itself can't switch live.
+[theme]
+base = "light"
+primaryColor = "#6d3b6b"
+backgroundColor = "#ffffff"
+secondaryBackgroundColor = "#f4f4f8"
+textColor = "#1f2333"
+font = "sans serif"
+
+[browser]
+gatherUsageStats = false
