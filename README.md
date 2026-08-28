@@ -105,11 +105,11 @@ flowchart LR
 
 | The pipeline overview | Spreader network |
 |---|---|
-| ![Overview tab](docs/screenshot-overview.png) | ![Network tab](docs/screenshot-network.png) |
+| ![Overview tab](screenshot-overview.png) | ![Network tab](screenshot-network.png) |
 
 | Training metrics | Live classification |
 |---|---|
-| ![Train tab](docs/screenshot-train.png) | ![Classify tab](docs/screenshot-classify.png) |
+| ![Train tab](screenshot-train.png) | ![Classify tab](screenshot-classify.png) |
 
 ---
 
